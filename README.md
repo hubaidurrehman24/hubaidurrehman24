@@ -84,77 +84,6 @@ Random Forest • XGBoost • Decision Trees • Scikit-Learn
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
----
-
-# ⭐ Featured Projects
-
-### 🚀 ELADFP
-AI-powered fake profile detection platform using Ensemble Learning and the MERN Stack.
-
-**Tech**
-
-React • Node.js • Flask • MongoDB • Random Forest • XGBoost
-
----
-
-### 🛍 EleganceRack
-
-Modern E-Commerce platform featuring
-
-- Stripe Payments
-- Admin Dashboard
-- Product Management
-- Responsive UI
-
----
-
-### 🍔 BiteFlow
-
-Real-time Food Ordering Platform
-
-- Live Order Tracking
-- Stripe Integration
-- Merchant Dashboard
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hubaidurrehman24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubaidurrehman24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hubaidurrehman24&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hubaidurrehman24&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hubaidurrehman24&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 💻 Philosophy
 
@@ -190,6 +119,5 @@ https://github.com/hubaidurrehman24
 
 ### Thanks for visiting! ⭐
 
-If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
