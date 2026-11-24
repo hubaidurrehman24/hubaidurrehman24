@@ -108,7 +108,7 @@ Random Forest • XGBoost • Decision Trees • SMOTE-ENN
 | **CheckMyRideInspections** | Multi-role vehicle inspection platform with QA review and report delivery | Next.js, TypeScript, Express, PostgreSQL, Stripe, AWS S3 |
 | **Employee Management System** | Internal project and task platform with timers, analytics, and PDF reports | Next.js, Express, PostgreSQL, Recharts, Swagger |
 | **Call A Van** | Real-time van-hire marketplace with live driver tracking on a map | Next.js, Socket.io, Mapbox GL, PostgreSQL |
-| **Integriti.io** | Company website built from Figma with a focus on Core Web Vitals and SEO | Next.js, TypeScript, Tailwind CSS, headless WordPress |
+| **Integriti Studio** | Company website built from Figma with a focus on Core Web Vitals and SEO | Next.js, TypeScript, Tailwind CSS, headless WordPress |
 | **ELADFP** | Social platform with ML-based fake-profile detection | React, Node.js, MongoDB, Flask, Python |
 
 > Some projects are private or built for clients, so not every one has a public repository.
@@ -125,15 +125,6 @@ while (alive) {
   ship();
 }
 ```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hubaidurrehman24&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubaidurrehman24&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
