@@ -19,7 +19,7 @@ I turn ideas into clean, fast, production-ready web applications, from the first
 <p>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2EA44F?style=flat-square" alt="Status">
-  <img src="https://komarev.com/ghpvc/?username=hubaidurrehman24&label=Profile+views&color=4F8EF7&style=flat-square" alt="Profile views">
+  <!-- <img src="https://komarev.com/ghpvc/?username=hubaidurrehman24&label=Profile+views&color=4F8EF7&style=flat-square" alt="Profile views"> -->
 </p>
 
 </div>
